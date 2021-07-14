@@ -29,7 +29,6 @@ scrapyd
 ```
 
 # How to use
-I did not bothered to create a form and a nice interface. Just gets the job done.
 There are only two urls -
 ## For starting crawling
 http://127.0.0.1/hashtag/api/crawl/<your_hashtag>/
